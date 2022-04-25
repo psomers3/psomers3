@@ -7,7 +7,7 @@ I enjoy working on projects that others can benefit from.
 Skills: Python / C / C++ / Git 
 
 - 🔭 Currently working on machine learning topics involved within the human bladder.
-- 🔭 Extensive history working with vehicles and their associated dynamics and environments.
+- 🔭 Extensive history working with automotive vehicles and their associated dynamics and environments.
 - 💬 Ask me about Python or Machine Learning
 - 📫 Reach me at peter.somers@isys.uni-stuttgart.de
 
