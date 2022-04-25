@@ -16,4 +16,4 @@ Skills: Python / C / C++ / Git
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=psomers3&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/YugantM) 
+![Profile views](https://gpvc.arturio.dev/psomers3) 
