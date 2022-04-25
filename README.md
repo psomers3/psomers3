@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, my name is Peter Somers.
+#### I am an engineer who dabbles in Python and C++.
 
-<!--
-**psomers3/psomers3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I enjoy working on projects that others can benefit from. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / C / C++ / Git 
+
+- 🔭 I’m currently working on machine learning topics involved within the human bladder 
+- 💬 Ask me about Python or Machine Learning
+- 📫 Reach me at peter.somers@isys.uni-stuttgart.de
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/psomers3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/peter-w-somers/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=psomers3&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/YugantM) 
