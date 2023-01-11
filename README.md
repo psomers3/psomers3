@@ -14,7 +14,7 @@ Skills: Python / C / C++ / Git
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/psomers3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/peter-w-somers/)
 
- <!---
+
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=psomers3&show_icons=true) 
---->
+
 ![Profile views](https://gpvc.arturio.dev/psomers3) 
