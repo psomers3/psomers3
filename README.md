@@ -15,6 +15,3 @@ Skills: Python / C / C++ / Git
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=psomers3&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psomers3&layout=compact&exclude_repo=ME6408)](https://github.com/psomers3/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/psomers3) 
-
