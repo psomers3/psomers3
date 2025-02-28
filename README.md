@@ -4,7 +4,7 @@
 
 I enjoy working on projects that others can benefit from. 
 
-Skills: Python / C / C++ / Git 
+Skills: Python / C++ / Git 
 
 - 🔭 Skilled in AWS cloud services and GitHub Action CI pipelines.
 - 🔭 Worked on image-based adversarial machine learning topics involved within the human bladder.
